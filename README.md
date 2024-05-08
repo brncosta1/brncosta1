@@ -1,3 +1,27 @@
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
+
+<p>
+  Hi 👋, I'm Bruno! A passionate tech student from Brazil.
+
+   - 🌱 I'm currently studying Python, Python APIs and Databases.
+
+   - 🔭 I am looking for my first job opportunity. My dream is to one day work as a Python Full Stack Dev.
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 28 years old, currently living in Brazil. I have intermediate English and Spanish and i also have experience with front end dev and UX Design. I have a Bachelor's degree in Physical Education, which helped me develop important skills such  as creativity, communication, community and social media management.
+
+  - ⚡ I like do workout, enjoy reading, whether it's a good book, manga, or comics, as well as watching movies, series and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
+
+</p>
 
 <div style="display: inline_block"><br>			
   <img align="center" alt="brunao-python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
@@ -13,9 +37,19 @@
   <img align="center" alt="brunao-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="brunao-flutter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="brunao-ps" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  
- 
 </div>
+
+##
+
+<!-- GithubStats -->
+![brncosta1 GitHub stats](https://github-readme-stats.vercel.app/api?username=brncosta1&show_icons=true&theme=gotham)
+
+##
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
 
 ##
 
