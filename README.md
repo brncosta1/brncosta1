@@ -9,7 +9,7 @@
 
   🌱 I'm currently studying Python, Python APIs and Databases.
 
-  🔭 I am looking for my first job opportunity. My dream is to one day work as a Python Full Stack Dev.
+  🔭 I am looking for my first job opportunity in the area. My dream is to one day work as a Python Full Stack Dev.
 </p>
 
 👨‍💻 More about me:
