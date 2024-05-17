@@ -37,8 +37,8 @@
 
 <!-- GithubStats -->
 <div align = "center">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncosta1&show_icons=true&theme=bear&count_private=true" />
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=brncosta1&show_icons=true&theme=gotham" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncosta&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=brncosta&show_icons=true&theme=gotham" />
 </div>
 
 
