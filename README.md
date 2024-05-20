@@ -7,7 +7,7 @@
 <p align="justify">
   Hi 👋, I'm Bruno! A passionate tech student from Brazil.
 
-  🌱 I'm currently studying Python, Python APIs and Databases.
+  🌱 I'm currently studying React, NodeJS, Postgrees and Flutter.
 
   🔭 I am looking for my first job opportunity in the area. My dream is to one day work as a Python Full Stack Dev.
 </p>
